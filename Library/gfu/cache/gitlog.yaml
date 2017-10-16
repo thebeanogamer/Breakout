@@ -1,0 +1,764 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: ce871873e272f424dadcd1374ecef0e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  log:
+  - CommitID: c44934b61bc9c30e0eeb1646d64e42393d1fb443
+    MergeA: 
+    MergeB: 
+    AuthorName: Daniel Milnes
+    AuthorEmail: thebeanogamer@gmail.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: Delete .gitignore
+    Description: Delete .gitignore
+    TimeString: 10/16/2017 8:47:48 PM +01:00
+    CommitTimeString: 10/16/2017 8:47:48 PM +01:00
+    Changes:
+    - Path: .gitignore
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.gitignore
+      ProjectPath: .gitignore
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+  - CommitID: ece83e8d53d8fa6aabe456562ed8e523f6442de6
+    MergeA: 
+    MergeB: 
+    AuthorName: Daniel Milnes
+    AuthorEmail: thebeanogamer@gmail.com
+    CommitEmail: thebeanogamer@gmail.com
+    CommitName: Daniel Milnes
+    Summary: Initial Commit
+    Description: "Initial Commit\r\n\r\nAdded basic sprites and code."
+    TimeString: 10/16/2017 8:45:11 PM +01:00
+    CommitTimeString: 10/16/2017 8:45:11 PM +01:00
+    Changes:
+    - Path: .idea\.idea.Breakout\.idea\contentModel.xml
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.idea\.idea.Breakout\.idea\contentModel.xml
+      ProjectPath: .idea\.idea.Breakout\.idea\contentModel.xml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: .idea\.idea.Breakout\.idea\indexLayout.xml
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.idea\.idea.Breakout\.idea\indexLayout.xml
+      ProjectPath: .idea\.idea.Breakout\.idea\indexLayout.xml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: .idea\.idea.Breakout\.idea\modules.xml
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.idea\.idea.Breakout\.idea\modules.xml
+      ProjectPath: .idea\.idea.Breakout\.idea\modules.xml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: .idea\.idea.Breakout\.idea\workspace.xml
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.idea\.idea.Breakout\.idea\workspace.xml
+      ProjectPath: .idea\.idea.Breakout\.idea\workspace.xml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: .idea\.idea.Breakout\riderModule.iml
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.idea\.idea.Breakout\riderModule.iml
+      ProjectPath: .idea\.idea.Breakout\riderModule.iml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins.meta
+      ProjectPath: Assets\Plugins.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\Editor.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\Editor.meta
+      ProjectPath: Assets\Plugins\Editor.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\Editor\JetBrains.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\Editor\JetBrains.meta
+      ProjectPath: Assets\Plugins\Editor\JetBrains.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\Editor\JetBrains\Unity3DRider.cs
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\Editor\JetBrains\Unity3DRider.cs
+      ProjectPath: Assets\Plugins\Editor\JetBrains\Unity3DRider.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\Editor\JetBrains\Unity3DRider.cs.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\Editor\JetBrains\Unity3DRider.cs.meta
+      ProjectPath: Assets\Plugins\Editor\JetBrains\Unity3DRider.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub.meta
+      ProjectPath: Assets\Plugins\GitHub.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\CREDITS.txt
+      ProjectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\EULA.txt
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\EULA.txt
+      ProjectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Octokit.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Octokit.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\Octokit.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\System.Net.Http.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\System.Net.Http.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\System.Net.Http.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\libsfw.so
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\libsfw.so
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\x64.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x64.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\x86.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x86.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      ProjectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs.meta
+      ProjectPath: Assets\Prefabs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Blue Block.prefab
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Blue Block.prefab
+      ProjectPath: Assets\Prefabs\Blue Block.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Blue Block.prefab.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Blue Block.prefab.meta
+      ProjectPath: Assets\Prefabs\Blue Block.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Green Block.prefab
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Green Block.prefab
+      ProjectPath: Assets\Prefabs\Green Block.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Green Block.prefab.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Green Block.prefab.meta
+      ProjectPath: Assets\Prefabs\Green Block.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Player.prefab
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Player.prefab
+      ProjectPath: Assets\Prefabs\Player.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Player.prefab.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Player.prefab.meta
+      ProjectPath: Assets\Prefabs\Player.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Red Block.prefab
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Red Block.prefab
+      ProjectPath: Assets\Prefabs\Red Block.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Red Block.prefab.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Red Block.prefab.meta
+      ProjectPath: Assets\Prefabs\Red Block.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scenes.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scenes.meta
+      ProjectPath: Assets\Scenes.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scenes\Main Scene.unity
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scenes\Main Scene.unity
+      ProjectPath: Assets\Scenes\Main Scene.unity
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scenes\Main Scene.unity.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scenes\Main Scene.unity.meta
+      ProjectPath: Assets\Scenes\Main Scene.unity.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scripts.meta
+      ProjectPath: Assets\Scripts.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\PlayerController.cs
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scripts\PlayerController.cs
+      ProjectPath: Assets\Scripts\PlayerController.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\PlayerController.cs.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scripts\PlayerController.cs.meta
+      ProjectPath: Assets\Scripts\PlayerController.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites.meta
+      ProjectPath: Assets\Sprites.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\Background.png
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Background.png
+      ProjectPath: Assets\Sprites\Background.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\Background.png.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Background.png.meta
+      ProjectPath: Assets\Sprites\Background.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\Ball.png
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Ball.png
+      ProjectPath: Assets\Sprites\Ball.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\Ball.png.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Ball.png.meta
+      ProjectPath: Assets\Sprites\Ball.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\Blocks.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Blocks.meta
+      ProjectPath: Assets\Sprites\Blocks.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\Blocks\Block.png
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Blocks\Block.png
+      ProjectPath: Assets\Sprites\Blocks\Block.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\Blocks\Block.png.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Blocks\Block.png.meta
+      ProjectPath: Assets\Sprites\Blocks\Block.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\Player.png
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Player.png
+      ProjectPath: Assets\Sprites\Player.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\Player.png.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Player.png.meta
+      ProjectPath: Assets\Sprites\Player.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Packages\manifest.json
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Packages\manifest.json
+      ProjectPath: Packages\manifest.json
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Packages\manifest.json.meta
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Packages\manifest.json.meta
+      ProjectPath: Packages\manifest.json.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\AudioManager.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\AudioManager.asset
+      ProjectPath: ProjectSettings\AudioManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\ClusterInputManager.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\ClusterInputManager.asset
+      ProjectPath: ProjectSettings\ClusterInputManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\DynamicsManager.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\DynamicsManager.asset
+      ProjectPath: ProjectSettings\DynamicsManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\EditorBuildSettings.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\EditorBuildSettings.asset
+      ProjectPath: ProjectSettings\EditorBuildSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\EditorSettings.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\EditorSettings.asset
+      ProjectPath: ProjectSettings\EditorSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\GraphicsSettings.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\GraphicsSettings.asset
+      ProjectPath: ProjectSettings\GraphicsSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\InputManager.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\InputManager.asset
+      ProjectPath: ProjectSettings\InputManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\NavMeshAreas.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\NavMeshAreas.asset
+      ProjectPath: ProjectSettings\NavMeshAreas.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\NetworkManager.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\NetworkManager.asset
+      ProjectPath: ProjectSettings\NetworkManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\Physics2DSettings.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\Physics2DSettings.asset
+      ProjectPath: ProjectSettings\Physics2DSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\ProjectSettings.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\ProjectSettings.asset
+      ProjectPath: ProjectSettings\ProjectSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\ProjectVersion.txt
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\ProjectVersion.txt
+      ProjectPath: ProjectSettings\ProjectVersion.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\QualitySettings.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\QualitySettings.asset
+      ProjectPath: ProjectSettings\QualitySettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\TagManager.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\TagManager.asset
+      ProjectPath: ProjectSettings\TagManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\TimeManager.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\TimeManager.asset
+      ProjectPath: ProjectSettings\TimeManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\UnityConnectSettings.asset
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\UnityConnectSettings.asset
+      ProjectPath: ProjectSettings\UnityConnectSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: UnityPackageManager\manifest.json
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\UnityPackageManager\manifest.json
+      ProjectPath: UnityPackageManager\manifest.json
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: d6edf315ed834f2e57e3935663d05884016a31cc
+    MergeA: 
+    MergeB: 
+    AuthorName: Daniel Milnes
+    AuthorEmail: thebeanogamer@gmail.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: Initial commit
+    Description: Initial commit
+    TimeString: 10/16/2017 5:48:11 PM +01:00
+    CommitTimeString: 10/16/2017 5:48:11 PM +01:00
+    Changes:
+    - Path: .gitignore
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.gitignore
+      ProjectPath: .gitignore
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: LICENSE
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\LICENSE
+      ProjectPath: LICENSE
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: README.md
+      FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\README.md
+      ProjectPath: README.md
+      OriginalPath: 
+      Status: 4
+      Staged: 0

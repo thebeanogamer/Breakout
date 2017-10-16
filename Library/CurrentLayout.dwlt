@@ -1,0 +1,1676 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 8
+    y: 51
+    width: 1520
+    height: 765
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 6}
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 9}
+  - {fileID: 3}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1520
+    height: 715
+  m_MinSize: {x: 508, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
+  vertical: 0
+  controlID: 97
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1080
+    y: 0
+    width: 440
+    height: 715
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 12}
+  m_Panes:
+  - {fileID: 16}
+  - {fileID: 14}
+  - {fileID: 12}
+  m_Selected: 2
+  m_LastSelected: 1
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 320
+    height: 363
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 363
+    width: 1080
+    height: 352
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 15}
+  - {fileID: 20}
+  - {fileID: 13}
+  m_Selected: 0
+  m_LastSelected: 2
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 2}
+  - {fileID: 8}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1520
+    height: 765
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1520
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 745
+    width: 1520
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 10}
+  - {fileID: 5}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1080
+    height: 715
+  m_MinSize: {x: 406, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
+  vertical: 1
+  controlID: 98
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 4}
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1080
+    height: 363
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
+  vertical: 0
+  controlID: 99
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 320
+    y: 0
+    width: 760
+    height: 363
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 18}
+  - {fileID: 19}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 363648761, guid: ce871873e272f424dadcd1374ecef0e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: GitHub.Unity.Window
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1090
+    y: 100
+    width: 438
+    height: 694
+  m_PersistentViewDataDictionary: {fileID: 0}
+  changeTab: 2
+  activeTab: 2
+  initProjectView:
+    isBusy: 0
+    isPublished: 0
+  branchesView:
+    activeBranchNode:
+      Label: 
+    localRoot:
+      Label: 
+    mode: 0
+    newBranchName: 
+    scroll: {x: 0, y: 0}
+    selectedNode:
+      Label: 
+    favoritesList: []
+  changesView:
+    commitBody: 
+    commitMessage: 
+    currentBranch: '[unknown]'
+    horizontalScroll: {x: 0, y: 0}
+    tree:
+      entries: []
+      entryCommitTargets: []
+      foldedTreeEntries: []
+  historyView:
+    detailsScroll: {x: 0, y: 0}
+    historyTarget: {fileID: 0}
+    scroll: {x: 0, y: 0}
+    selectionID: 
+    statusAhead: 0
+    statusBehind: 0
+    changesetTree:
+      entries: []
+      entryCommitTargets: []
+      foldedTreeEntries: []
+    history:
+    - CommitID: c44934b61bc9c30e0eeb1646d64e42393d1fb443
+      MergeA: 
+      MergeB: 
+      AuthorName: Daniel Milnes
+      AuthorEmail: thebeanogamer@gmail.com
+      CommitEmail: noreply@github.com
+      CommitName: GitHub
+      Summary: Delete .gitignore
+      Description: Delete .gitignore
+      TimeString: 10/16/2017 8:47:48 PM +01:00
+      CommitTimeString: 10/16/2017 8:47:48 PM +01:00
+      Changes:
+      - Path: .gitignore
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.gitignore
+        ProjectPath: .gitignore
+        OriginalPath: 
+        Status: 5
+        Staged: 0
+    - CommitID: ece83e8d53d8fa6aabe456562ed8e523f6442de6
+      MergeA: 
+      MergeB: 
+      AuthorName: Daniel Milnes
+      AuthorEmail: thebeanogamer@gmail.com
+      CommitEmail: thebeanogamer@gmail.com
+      CommitName: Daniel Milnes
+      Summary: Initial Commit
+      Description: "Initial Commit\r\n\r\nAdded basic sprites and code."
+      TimeString: 10/16/2017 8:45:11 PM +01:00
+      CommitTimeString: 10/16/2017 8:45:11 PM +01:00
+      Changes:
+      - Path: .idea\.idea.Breakout\.idea\contentModel.xml
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.idea\.idea.Breakout\.idea\contentModel.xml
+        ProjectPath: .idea\.idea.Breakout\.idea\contentModel.xml
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: .idea\.idea.Breakout\.idea\indexLayout.xml
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.idea\.idea.Breakout\.idea\indexLayout.xml
+        ProjectPath: .idea\.idea.Breakout\.idea\indexLayout.xml
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: .idea\.idea.Breakout\.idea\modules.xml
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.idea\.idea.Breakout\.idea\modules.xml
+        ProjectPath: .idea\.idea.Breakout\.idea\modules.xml
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: .idea\.idea.Breakout\.idea\workspace.xml
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.idea\.idea.Breakout\.idea\workspace.xml
+        ProjectPath: .idea\.idea.Breakout\.idea\workspace.xml
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: .idea\.idea.Breakout\riderModule.iml
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.idea\.idea.Breakout\riderModule.iml
+        ProjectPath: .idea\.idea.Breakout\riderModule.iml
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins.meta
+        ProjectPath: Assets\Plugins.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\Editor.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\Editor.meta
+        ProjectPath: Assets\Plugins\Editor.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\Editor\JetBrains.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\Editor\JetBrains.meta
+        ProjectPath: Assets\Plugins\Editor\JetBrains.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\Editor\JetBrains\Unity3DRider.cs
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\Editor\JetBrains\Unity3DRider.cs
+        ProjectPath: Assets\Plugins\Editor\JetBrains\Unity3DRider.cs
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\Editor\JetBrains\Unity3DRider.cs.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\Editor\JetBrains\Unity3DRider.cs.meta
+        ProjectPath: Assets\Plugins\Editor\JetBrains\Unity3DRider.cs.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub.meta
+        ProjectPath: Assets\Plugins\GitHub.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\CREDITS.txt
+        ProjectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\EULA.txt
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\EULA.txt
+        ProjectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\Octokit.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Octokit.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\Octokit.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+        ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+        ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+        ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\System.Net.Http.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\System.Net.Http.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\System.Net.Http.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\System.Threading.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\libsfw.bundle
+        ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\libsfw.so
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\libsfw.so
+        ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\sfw.net.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\x64.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x64.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\x64.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\x86.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x86.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\x86.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        ProjectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        ProjectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Prefabs.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs.meta
+        ProjectPath: Assets\Prefabs.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Prefabs\Blue Block.prefab
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Blue
+          Block.prefab
+        ProjectPath: Assets\Prefabs\Blue Block.prefab
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Prefabs\Blue Block.prefab.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Blue
+          Block.prefab.meta
+        ProjectPath: Assets\Prefabs\Blue Block.prefab.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Prefabs\Green Block.prefab
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Green
+          Block.prefab
+        ProjectPath: Assets\Prefabs\Green Block.prefab
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Prefabs\Green Block.prefab.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Green
+          Block.prefab.meta
+        ProjectPath: Assets\Prefabs\Green Block.prefab.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Prefabs\Player.prefab
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Player.prefab
+        ProjectPath: Assets\Prefabs\Player.prefab
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Prefabs\Player.prefab.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Player.prefab.meta
+        ProjectPath: Assets\Prefabs\Player.prefab.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Prefabs\Red Block.prefab
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Red Block.prefab
+        ProjectPath: Assets\Prefabs\Red Block.prefab
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Prefabs\Red Block.prefab.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Prefabs\Red Block.prefab.meta
+        ProjectPath: Assets\Prefabs\Red Block.prefab.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Scenes.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scenes.meta
+        ProjectPath: Assets\Scenes.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Scenes\Main Scene.unity
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scenes\Main Scene.unity
+        ProjectPath: Assets\Scenes\Main Scene.unity
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Scenes\Main Scene.unity.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scenes\Main Scene.unity.meta
+        ProjectPath: Assets\Scenes\Main Scene.unity.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Scripts.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scripts.meta
+        ProjectPath: Assets\Scripts.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Scripts\PlayerController.cs
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scripts\PlayerController.cs
+        ProjectPath: Assets\Scripts\PlayerController.cs
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Scripts\PlayerController.cs.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Scripts\PlayerController.cs.meta
+        ProjectPath: Assets\Scripts\PlayerController.cs.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Sprites.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites.meta
+        ProjectPath: Assets\Sprites.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Sprites\Background.png
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Background.png
+        ProjectPath: Assets\Sprites\Background.png
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Sprites\Background.png.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Background.png.meta
+        ProjectPath: Assets\Sprites\Background.png.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Sprites\Ball.png
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Ball.png
+        ProjectPath: Assets\Sprites\Ball.png
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Sprites\Ball.png.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Ball.png.meta
+        ProjectPath: Assets\Sprites\Ball.png.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Sprites\Blocks.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Blocks.meta
+        ProjectPath: Assets\Sprites\Blocks.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Sprites\Blocks\Block.png
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Blocks\Block.png
+        ProjectPath: Assets\Sprites\Blocks\Block.png
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Sprites\Blocks\Block.png.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Blocks\Block.png.meta
+        ProjectPath: Assets\Sprites\Blocks\Block.png.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Sprites\Player.png
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Player.png
+        ProjectPath: Assets\Sprites\Player.png
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Assets\Sprites\Player.png.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Assets\Sprites\Player.png.meta
+        ProjectPath: Assets\Sprites\Player.png.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Packages\manifest.json
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Packages\manifest.json
+        ProjectPath: Packages\manifest.json
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: Packages\manifest.json.meta
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\Packages\manifest.json.meta
+        ProjectPath: Packages\manifest.json.meta
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\AudioManager.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\AudioManager.asset
+        ProjectPath: ProjectSettings\AudioManager.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\ClusterInputManager.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\ClusterInputManager.asset
+        ProjectPath: ProjectSettings\ClusterInputManager.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\DynamicsManager.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\DynamicsManager.asset
+        ProjectPath: ProjectSettings\DynamicsManager.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\EditorBuildSettings.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\EditorBuildSettings.asset
+        ProjectPath: ProjectSettings\EditorBuildSettings.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\EditorSettings.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\EditorSettings.asset
+        ProjectPath: ProjectSettings\EditorSettings.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\GraphicsSettings.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\GraphicsSettings.asset
+        ProjectPath: ProjectSettings\GraphicsSettings.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\InputManager.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\InputManager.asset
+        ProjectPath: ProjectSettings\InputManager.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\NavMeshAreas.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\NavMeshAreas.asset
+        ProjectPath: ProjectSettings\NavMeshAreas.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\NetworkManager.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\NetworkManager.asset
+        ProjectPath: ProjectSettings\NetworkManager.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\Physics2DSettings.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\Physics2DSettings.asset
+        ProjectPath: ProjectSettings\Physics2DSettings.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\ProjectSettings.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\ProjectSettings.asset
+        ProjectPath: ProjectSettings\ProjectSettings.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\ProjectVersion.txt
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\ProjectVersion.txt
+        ProjectPath: ProjectSettings\ProjectVersion.txt
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\QualitySettings.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\QualitySettings.asset
+        ProjectPath: ProjectSettings\QualitySettings.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\TagManager.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\TagManager.asset
+        ProjectPath: ProjectSettings\TagManager.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\TimeManager.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\TimeManager.asset
+        ProjectPath: ProjectSettings\TimeManager.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: ProjectSettings\UnityConnectSettings.asset
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\ProjectSettings\UnityConnectSettings.asset
+        ProjectPath: ProjectSettings\UnityConnectSettings.asset
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: UnityPackageManager\manifest.json
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\UnityPackageManager\manifest.json
+        ProjectPath: UnityPackageManager\manifest.json
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+    - CommitID: d6edf315ed834f2e57e3935663d05884016a31cc
+      MergeA: 
+      MergeB: 
+      AuthorName: Daniel Milnes
+      AuthorEmail: thebeanogamer@gmail.com
+      CommitEmail: noreply@github.com
+      CommitName: GitHub
+      Summary: Initial commit
+      Description: Initial commit
+      TimeString: 10/16/2017 5:48:11 PM +01:00
+      CommitTimeString: 10/16/2017 5:48:11 PM +01:00
+      Changes:
+      - Path: .gitignore
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\.gitignore
+        ProjectPath: .gitignore
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: LICENSE
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\LICENSE
+        ProjectPath: LICENSE
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+      - Path: README.md
+        FullPath: C:\Users\thebe\Documents\GitKraken\Breakout\README.md
+        ProjectPath: README.md
+        OriginalPath: 
+        Status: 4
+        Staged: 0
+    currentRemote: origin
+    isPublished: 1
+  settingsView:
+    gitIgnoreRulesSelection: 0
+    initDirectory: 
+    lockedFiles: []
+    lockScrollPos: {x: 0, y: 0}
+    repositoryRemoteName: 
+    repositoryRemoteUrl: 
+    scroll: {x: 0, y: 0}
+    lockedFileSelection: -1
+    hasRemote: 0
+    newGitName: 
+    newGitEmail: 
+    newRepositoryRemoteUrl: 
+    metricsEnabled: 0
+    gitPathView:
+      gitExec: 
+      gitExecParent: 
+      gitExecExtension: 
+      newGitExec: 
+      isValueChanged: 0
+      isValueChangedAndFileExists: 0
+      gitFileErrorMessage: 
+      gitVersionErrorMessage: 
+    userSettingsView:
+      gitName: 
+      gitEmail: 
+      newGitName: 
+      newGitEmail: 
+  repoBranch: master
+  repoUrl: https://github.com/thebeanogamer/Breakout.git
+  repoBranchContent:
+    m_Text: master
+    m_Image: {fileID: 0}
+    m_Tooltip: Active branch
+  repoUrlContent:
+    m_Text: https://github.com/thebeanogamer/Breakout.git
+    m_Image: {fileID: 0}
+    m_Tooltip: Url of the origin remote
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12373, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Audio Mixer
+    m_Image: {fileID: 5436946869657106676, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 463
+    width: 1089
+    height: 339
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MixersTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 12eb343c
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_LayoutStripsOnTop:
+    m_VerticalSplitter:
+      ID: 0
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes: 4100000023000000
+      relativeSizes:
+      - 0.65
+      - 0.35000002
+      minSizes: 5500000069000000
+      maxSizes: 0000000000000000
+      lastTotalSize: 0
+      splitSize: 6
+      xOffset: 0
+    m_HorizontalSplitter:
+      ID: 0
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes: 3c0000003c0000003c0000003c000000
+      relativeSizes:
+      - 0.25
+      - 0.25
+      - 0.25
+      - 0.25
+      minSizes: 55000000550000005500000055000000
+      maxSizes: 00000000000000000000000000000000
+      lastTotalSize: 0
+      splitSize: 6
+      xOffset: 0
+  m_LayoutStripsOnRight:
+    m_VerticalSplitter:
+      ID: 0
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes: 3c0000003c0000003c0000003c000000
+      relativeSizes:
+      - 0.25
+      - 0.25
+      - 0.25
+      - 0.25
+      minSizes: 64000000550000005500000055000000
+      maxSizes: 00000000000000000000000000000000
+      lastTotalSize: 0
+      splitSize: 6
+      xOffset: 0
+    m_HorizontalSplitter:
+      ID: 129
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes: 47010000fb020000
+      relativeSizes:
+      - 0.3
+      - 0.7
+      minSizes: a0000000a0000000
+      maxSizes: 0000000000000000
+      lastTotalSize: 1090
+      splitSize: 6
+      xOffset: -1
+  m_SectionOrder: 00000000030000000100000002000000
+  m_LayoutMode: 1
+  m_SortGroupsAlphabetically: 0
+  m_ShowReferencedBuses: 1
+  m_ShowBusConnections: 0
+  m_ShowBusConnectionsOfSelection: 0
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12157, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Services
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1090
+    y: 100
+    width: 438
+    height: 694
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_GlobalObjectTypeName: 
+  m_RegisteredViewURLs:
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_RegisteredViewInstances:
+  - {fileID: 0}
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 8
+    y: 463
+    width: 1078
+    height: 331
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_ScenePaths: []
+    m_ShowAllHits: 0
+    m_SearchArea: 0
+    m_Folders:
+    - Assets
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\thebe\Documents\GitKraken\Breakout
+  m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: ba270000
+    m_LastClickedID: 10170
+    m_ExpandedIDs: 00000000ba270000d6270000f62700006429000000ca9a3bffffff7f
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 5}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000ba270000d6270000f627000064290000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 5}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 64
+  m_DirectoriesAreaWidth: 115
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1093
+    y: 92
+    width: 443
+    height: 710
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ScrollPosition: {x: 0, y: 0}
+  m_InspectorMode: 0
+  m_PreviewResizer:
+    m_CachedPref: 160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 8
+    y: 100
+    width: 318
+    height: 342
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 98fbffff00000000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 4}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - Main Scene
+  m_CurrenRootInstanceID: 0
+  m_Locked: 0
+  m_CurrentSortingName: TransformSorting
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 1
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 32
+  m_Pos:
+    serializedVersion: 2
+    x: 330
+    y: 100
+    width: 756
+    height: 342
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneLighting: 1
+  lastFramingTime: 55904.88902735008
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: -0.23881526, y: -0.23881696, z: -9.931641}
+    speed: 2
+    m_Value: {x: -0.23881526, y: -0.23881696, z: -9.931641}
+  m_RenderMode: 0
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 0
+    showMaterialUpdate: 0
+    showSkybox: 0
+    showFlares: 0
+    showImageEffects: 0
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+  m_Rotation:
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 15.221228
+    speed: 2
+    m_Value: 15.221228
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 1
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 32
+  m_Pos:
+    serializedVersion: 2
+    x: 406
+    y: 92
+    width: 956
+    height: 460
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    m_HBaseRangeMin: -393.77777
+    m_HBaseRangeMax: 393.77777
+    m_VBaseRangeMin: -221.5
+    m_VBaseRangeMax: 221.5
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 0
+    m_EnableSliderZoom: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 956
+      height: 443
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 478, y: 221.5}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -478
+      y: -221.5
+      width: 956
+      height: 443
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 956, y: 460}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 463
+    width: 1089
+    height: 339
+  m_PersistentViewDataDictionary: {fileID: 0}
