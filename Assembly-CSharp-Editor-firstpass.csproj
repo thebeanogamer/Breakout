@@ -53,8 +53,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Plugins\Editor\JetBrains\Unity3DRider.cs" />
-    <None Include="Assets\Plugins\GitHub\Editor\CREDITS.txt" />
-    <None Include="Assets\Plugins\GitHub\Editor\EULA.txt" />
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity 2017.3.0b4/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
@@ -129,45 +127,6 @@
     </Reference>
     <Reference Include="UnityEditor.OSXStandalone.Extensions">
       <HintPath>C:/Program Files/Unity 2017.3.0b4/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="AsyncBridge.Net35">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll</HintPath>
-    </Reference>
-    <Reference Include="GitHub.Api">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/GitHub.Api.dll</HintPath>
-    </Reference>
-    <Reference Include="GitHub.Logging">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
-    </Reference>
-    <Reference Include="GitHub.Unity">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll</HintPath>
-    </Reference>
-    <Reference Include="ICSharpCode.SharpZipLib">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Posix">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/Mono.Posix.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Security">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/Mono.Security.dll</HintPath>
-    </Reference>
-    <Reference Include="Octokit">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/Octokit.dll</HintPath>
-    </Reference>
-    <Reference Include="Rackspace.Threading">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll</HintPath>
-    </Reference>
-    <Reference Include="ReadOnlyCollectionsInterfaces">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll</HintPath>
-    </Reference>
-    <Reference Include="sfw.net">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Net.Http">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/System.Net.Http.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Threading">
-      <HintPath>C:/Users/thebe/Documents/GitKraken/Breakout/Assets/Plugins/GitHub/Editor/System.Threading.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>C:/Users/thebe/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@0.0.17/UnityEngine.Advertisements.dll</HintPath>

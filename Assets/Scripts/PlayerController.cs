@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
 		rb2d.transform.position = (new Vector3( rb2d.position.x, -4, 0));
 		
 		//Ensuree the block does not rotate
-		transform.Rotate(new Vector3(0,0,0));
+		transform.rotation = Quaternion.identity;
 	}
 
 	//OnTriggerEnter2D is called whenever this object overlaps with a trigger collider.
